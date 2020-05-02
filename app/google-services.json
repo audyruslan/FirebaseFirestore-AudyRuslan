@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1063052208072",
+    "firebase_url": "https://audy-firebaseapp.firebaseio.com",
+    "project_id": "audy-firebaseapp",
+    "storage_bucket": "audy-firebaseapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063052208072:android:7e85da9371135f77a4c2fd",
+        "android_client_info": {
+          "package_name": "audy.ruslan.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063052208072-fjfodtns9rdhf3akvdb31kip12blupa9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "audy.ruslan.firebaseapp",
+            "certificate_hash": "4862fd396d15e242cddefad3f19f72247dee22d0"
+          }
+        },
+        {
+          "client_id": "1063052208072-oqpsg4rj5t93o7psdc75s402761r2mr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJv5XTX1x-m0vSfRY620Ol4AXg_rglYhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063052208072-oqpsg4rj5t93o7psdc75s402761r2mr4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
